@@ -157,4 +157,4 @@
 
 1月30日
 ・CCNA完全合格テキスト&問題集の継続学習
-・SQL/Python/Excelの
+・SQL/Python/Excelの学習。
