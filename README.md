@@ -194,3 +194,4 @@
 ・SQL/Excelの学習
 
 2月12日
+・SQL/Excelの学習
