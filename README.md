@@ -200,4 +200,9 @@
 ・SQL/Excelの学習
 
 2月15日
-・SQL/Excelの学習
+・SQL/Excelの学習　　
+
+（SQL学習にProgate教材の他、（教材）ビッグデータ分析・活用のためのSQLレシピを本日より活用）
+
+2月16日　　
+・・SQL/Excelの学習
