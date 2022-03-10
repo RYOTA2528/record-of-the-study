@@ -274,5 +274,13 @@
  
  3月8日
  ・新わかりやすJava入門編（110/517）
- ・Python学習
- ・Pythonエンジニア認定基礎試験合格問題集
+ ・Udemy講座学習（Python）
+ ・Python教材学習(Pythonエンジニア認定基礎試験合格問題集)
+ 
+ 3月9日
+ ・Udemy講座学習（Python）
+ ・Python教材学習(Pythonエンジニア認定基礎試験合格問題集)
+ 
+ 3月10日
+ ・Udemy講座学習（Python）
+ ・SQL教材学習（SQLレシピ）
